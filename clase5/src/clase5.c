@@ -27,6 +27,7 @@ int main(void) {
 
 	do {
 
+		printf("Primer comit\n");
 		switch(menu()){
 		case 1:
 			printf("Usted ha seleccionado la opcion 1-Inicializar\n");
