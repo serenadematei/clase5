@@ -27,6 +27,8 @@ int main(void) {
 
 	do {
 
+		printf("Tercer comit\n");
+		printf("Segundo comit\n");
 		printf("Primer comit\n");
 		switch(menu()){
 		case 1:
