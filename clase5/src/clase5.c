@@ -27,6 +27,7 @@ int main(void) {
 
 	do {
 
+		printf("cuarto y ultimo comit\n");
 		printf("Tercer comit\n");
 		printf("Segundo comit\n");
 		printf("Primer comit\n");
